@@ -89,6 +89,8 @@ containers.
 
 ## A title's page
 
+<img src="../images/desktop-title.png" alt="A title's page" width="820">
+
 Click a title to open its page. **Esc** goes back. On a phone, the picture at the top slides
 away more slowly than the page, and once it has gone a bar with the title's name stays at the
 top.
